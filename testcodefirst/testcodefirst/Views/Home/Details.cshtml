@@ -1,0 +1,29 @@
+﻿@model testcodefirst.Models.Order
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Order</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.OrderCode)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.OrderCode)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.OrderAmount)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.OrderAmount)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.OrderId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
