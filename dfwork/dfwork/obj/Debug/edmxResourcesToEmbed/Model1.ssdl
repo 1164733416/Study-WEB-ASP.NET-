@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="mydbfModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="mydbfModelStoreContainer">
+    <EntitySet Name="T_Customer" EntityType="mydbfModel.Store.T_Customer" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="T_Customer">
+    <Key>
+      <PropertyRef Name="ld" />
+    </Key>
+    <Property Name="ld" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="32" />
+    <Property Name="sex" Type="text" />
+    <Property Name="phone" Type="varchar" MaxLength="50" />
+    <Property Name="Grate" Type="decimal" Precision="6" Scale="1" />
+  </EntityType>
+</Schema>

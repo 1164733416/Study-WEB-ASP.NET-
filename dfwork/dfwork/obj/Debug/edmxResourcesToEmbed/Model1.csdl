@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="mydbfModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="mydbfEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="T_Customer" EntityType="mydbfModel.T_Customer" />
+  </EntityContainer>
+  <EntityType Name="T_Customer">
+    <Key>
+      <PropertyRef Name="ld" />
+    </Key>
+    <Property Name="ld" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="UserName" Type="String" MaxLength="32" Unicode="true" FixedLength="false" />
+    <Property Name="sex" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="phone" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Grate" Type="Decimal" Precision="6" Scale="1" />
+  </EntityType>
+</Schema>

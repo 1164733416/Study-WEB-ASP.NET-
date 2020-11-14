@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2012\Projects\MyDFdemo\MyDFdemo\bin\Debug\MyDFdemo.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\MyDFdemo\MyDFdemo\bin\Debug\MyDFdemo.exe
+c:\users\administrator\documents\visual studio 2012\Projects\MyDFdemo\MyDFdemo\bin\Debug\MyDFdemo.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\MyDFdemo\MyDFdemo\obj\Debug\MyDFdemo.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\MyDFdemo\MyDFdemo\obj\Debug\MyDFdemo.exe
+c:\users\administrator\documents\visual studio 2012\Projects\MyDFdemo\MyDFdemo\obj\Debug\MyDFdemo.pdb

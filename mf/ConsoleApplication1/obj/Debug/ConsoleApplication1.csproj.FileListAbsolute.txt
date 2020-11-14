@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2012\Projects\mf\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\mf\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\administrator\documents\visual studio 2012\Projects\mf\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\mf\ConsoleApplication1\bin\Debug\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2012\Projects\mf\ConsoleApplication1\bin\Debug\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2012\Projects\mf\ConsoleApplication1\bin\Debug\zh-Hans\EntityFramework.resources.dll
+c:\users\administrator\documents\visual studio 2012\Projects\mf\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\mf\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\administrator\documents\visual studio 2012\Projects\mf\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Projects\mf\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Projects\mf\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Projects\mf\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Projects\mf\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Projects\mf\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Projects\mf\ConsoleApplication1\bin\Debug\EntityFramework.dll
+D:\Projects\mf\ConsoleApplication1\bin\Debug\EntityFramework.xml
+D:\Projects\mf\ConsoleApplication1\bin\Debug\zh-Hans\EntityFramework.resources.dll
